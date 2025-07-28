@@ -1,7 +1,7 @@
 # Privacy Policy for Solo Studio Scanner Applications
 
-**Effective Date:** July 27, 2025  
-**Last Updated:** July 27, 2025
+**Effective Date:** 2025/07/27  
+**Last Updated:** 2025/07/27
 
 ## Introduction
 
@@ -23,19 +23,19 @@ Solo Studio ("we," "our," or "us") operates mobile scanner applications includin
 - **Network Connectivity:** Connection status to ensure proper app functionality
 
 ### Third-Party Data Sources
-- **Product Databases:** Information from public databases (OpenFoodFacts, product APIs, certification databases)
-- **AI Analysis Services:** Content analysis through AI providers for specialized assessments
+- **Product Databases:** Information from public databases (OpenFoodFacts, product APIs, certification databases) - **accuracy not guaranteed**
+- **AI Analysis Services:** Content analysis through AI providers for specialized assessments - **may contain errors**
 - **Firebase Services:** Authentication, analytics, crashlytics, and app performance monitoring
 
 ## How We Use Your Information
 
 ### Core Functionality
 - Scan and identify various types of content (barcodes, QR codes, text, products)
-- Retrieve relevant information from appropriate databases
-- Analyze scanned content using AI technology for specialized assessments
+- Retrieve relevant information from appropriate databases (**data accuracy not guaranteed**)
+- Analyze scanned content using AI technology for specialized assessments (**AI may make errors**)
 - Process camera images for recognition purposes (locally on device)
 - Provide multilingual support where applicable
-- Deliver scanner-specific features and recommendations
+- Deliver scanner-specific features and recommendations (**for informational purposes only**)
 
 ### Service Improvement
 - Monitor app performance and connectivity issues
@@ -91,14 +91,32 @@ If our company is acquired or merged, user data may be transferred as part of th
 ## App-Specific Data Handling
 
 ### Halal Scanner
-- **Ingredient Analysis:** Ingredients text analyzed for halal compliance
-- **Product Database:** OpenFoodFacts integration for food product information
-- **Certification Data:** Halal certification status and recommendations
+- **Ingredient Analysis:** Ingredients text analyzed for halal compliance using AI models (results may contain errors)
+- **Product Database:** OpenFoodFacts integration for food product information (data accuracy not guaranteed)
+- **Certification Data:** Halal status assessments and recommendations based on AI analysis
+- **Dietary Information:** Dietary tags (vegan, vegetarian, gluten-free, etc.) derived from available data (verification required for allergies)
 
 ### Future Scanner Apps
 - Each scanner type may have specific data processing requirements
 - All will follow the same core privacy principles outlined in this policy
 - App-specific data handling will be disclosed in app descriptions and updates to this policy
+
+## Important Disclaimers and Limitations
+
+### Data Accuracy and Reliability
+- **OpenFoodFacts Data:** Product information retrieved from OpenFoodFacts is user-contributed and may contain inaccuracies, outdated information, or incomplete data. We do not guarantee the accuracy, completeness, or reliability of this information.
+- **AI Analysis Limitations:** Our AI-powered halal status assessments are provided by artificial intelligence models (including OpenAI) which can make errors, misinterpret ingredients, or provide incorrect recommendations. AI analysis should not be considered definitive.
+- **Dietary Tags:** Dietary information (vegan, vegetarian, gluten-free, nut-free, dairy-free) is derived from available product data and may be incomplete or incorrect.
+
+### Health and Safety Warnings
+- **Allergy Information:** **CRITICAL WARNING** - Do not rely solely on our app for allergy information. Always verify ingredient lists directly with manufacturers and product packaging if you have food allergies or dietary restrictions.
+- **Medical Decisions:** Our app is not intended for medical use and should not be used to make health-related decisions.
+- **Religious Compliance:** While we strive to provide accurate halal assessments, final religious compliance decisions should be made in consultation with appropriate religious authorities.
+
+### User Responsibility
+- **Verification Required:** Users are responsible for independently verifying all product information, especially for health, safety, or religious compliance purposes.
+- **Professional Consultation:** Consult healthcare professionals, religious authorities, or certified specialists for critical dietary or religious decisions.
+- **Product Updates:** Manufacturers may change product formulations without notice - always check current product packaging.
 
 ## Data Security
 
@@ -133,6 +151,7 @@ We implement robust security measures:
 ### How to Exercise Your Rights
 Contact us at solostudioapps@outlook.com to:
 - Request data deletion or modification
+- Export your personal data
 - Report privacy concerns
 - Ask questions about our practices
 
