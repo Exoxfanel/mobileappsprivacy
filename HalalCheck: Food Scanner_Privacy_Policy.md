@@ -131,9 +131,8 @@ We implement robust security measures:
 - **Storage Access:** Only for temporary processing and user preferences
 
 ### How to Exercise Your Rights
-Contact us at privacy@[yourdomain].com to:
+Contact us at solostudioapps@outlook.com to:
 - Request data deletion or modification
-- Export your personal data
 - Report privacy concerns
 - Ask questions about our practices
 
@@ -206,9 +205,9 @@ We may update this Privacy Policy to reflect:
 
 For questions about this Privacy Policy or our privacy practices:
 
-**Email:** privacy@[yourdomain].com  
+**Email:** solostudioapps@outlook.com  
 **Developer:** Solo Studio  
-**Support:** support@[yourdomain].com
+**Support:** solostudioapps@outlook.com
 
 ### Regional Rights
 
